@@ -4361,6 +4361,22 @@ Productivity
 
 </details>
 
+## [CavalierGPT by Hudson Rock](www.hudsonrock.com/cavaliergpt)
+AI agent for cybersecurity and cybercrime research 
+
+<details>
+
+![image](https://heymoon.ai/assets/images/image04.png?v=a3b31dce)
+
+### Category
+Cybersecurity
+
+### Description
+- CavalierGPT is a powerful assistant built on the Cavalier API, designed to deliver detailed insights into domains, emails, usernames, IPs, keywords, and cybersecurity trends to uncover threats and enhance security.
+- Cybercrime research AI agent
+
+</details>
+
 ## [iMean.AI](https://www.imean.ai/)
 AI personal assistant that automates browser task
 
